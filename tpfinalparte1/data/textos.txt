@@ -1,0 +1,15 @@
+0# Frankenweenie
+1# Victor está devastado luego de perder a su perro Sparky, que fue atropellado por un auto. Con sus conocimientos sobre ciencia y electricidad se le ocurrió la idea de revivirlo. ¿Debería hacer eso?
+2# Victor decide no revivir a Sparky, acepta su muerte con mucho dolor y sigue con su vida
+3# Una noche de tormenta Victor decide revivir a Sparky. Para hacer eso debe sacar una barra metálica que está conectada a unos cables para que le caiga un rayo y sirva como conductor de electricidad. ¿Debería conectar los cables a Sparky?
+4# Al no conectar los cables a Sparky, la electricidad se dirige al piso haciendo que la casa se queme
+5# Al conectar los cables a su perro, Victor logra que la electricidad del rayo se dirija por los cables hacia Sparky logrando que vuelva a la vida
+6# Con miedo a que sus padres descubran que logró revivir a Sparky, decide esconderlo
+7# Edgar, un compañero del colegio, descubre que Victor revivió a su perro y le pide que le enseñe como lo hizo. ¿Debería enseñarle?
+8# En venganza por no haberle enseñado, Edgar le cuenta a los padres de Victor lo que hizo su hijo
+9# Los padres de Victor se toman bien la noticia de que Victor revivió a Sparky
+10# Luego de que Victor le enseñara como revivio a Sparky, Edgar decide contarle al resto de sus compañeros como revivir a sus mascotas y todos comienzan a hacerlo
+11# Revivir a sus mascotas no resultó como esperaban ya que se vuelven malvadas y no les queda más remedio que pedirle ayuda a Victor. ¿Debería ayudarlos?
+12# Victor decide ayudar a sus compañeros y logran salvar la ciudad de las mascotas malvadas
+13# Victor decide no ayudar a sus compañeros y las mascotas malvadas destruyen la ciudad
+14# Pelicula dirigida por Tim Burton y producida por Walt Disney Pictures. Trabajo hecho por Alan Carabajal (118986/1) y Uma Lara Feoli (119020/6)
